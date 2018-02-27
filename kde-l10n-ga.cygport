@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-ga"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Irish translation files"
 DESCRIPTION="KDE Irish translation files"
